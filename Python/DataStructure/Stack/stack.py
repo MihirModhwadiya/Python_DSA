@@ -44,7 +44,7 @@ while c != 5:
     elif c == 2:
         s.pop()
     elif c == 3:
-        s.peek()
+        print(s.peek())
     elif c == 4:
         print(s.display())
     elif c != 5:
