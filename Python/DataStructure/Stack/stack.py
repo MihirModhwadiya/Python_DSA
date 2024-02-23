@@ -27,7 +27,6 @@ class Stack:
         return (self.items)
 
 
-# __main__
 s = Stack()
 c = 0
 while c != 5:
@@ -51,5 +50,3 @@ while c != 5:
         print('Wrong Choice! Choose from 1 to 5 only')
 
 print('Bye')
-
-# explain this
